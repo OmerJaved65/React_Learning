@@ -7,6 +7,7 @@ function App() {
   <p>bitcoin</p>
   <br></br>
   <label >React App</label>
+  <p>new file checking for git hub</p>
   
   </div>
   );
